@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-Application
-This is a application you can use use to Do small Exploratory Data Analysis Application without writing any code
+This is a application you can use use to Do small Exploratory Data Analysis Application without writing any code.
+I have given 1 sample Data Set You Can Use Any Other To Check
 
 # EAT_app
 Exploratory Analysis Tools Application
