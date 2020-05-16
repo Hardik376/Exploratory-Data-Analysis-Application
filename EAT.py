@@ -108,7 +108,7 @@ def main():
 
 
     st.sidebar.markdown("**Help me to improve this application. See the source code below. Follow me!**")
-    st.sidebar.markdown("[Source code](https://github.com/rafaelloni/EAT_app)")
+    st.sidebar.markdown("[Source code](https://github.com/Hardik376/Exploratory-Data-Analysis-Application)")
     st.sidebar.markdown("**About the author:**")
     st.sidebar.markdown("[Hardik Gera](https://in.linkedin.com/in/hardik-gera-5a605a15b)")
     st.sidebar.markdown(" ` Version 0.0.1 ` ")
